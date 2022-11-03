@@ -21,3 +21,7 @@ mongoose.connect(process.env.DB_CONNECTOR, () => {
 app.listen(3000, () => {
     console.log("Server is running...")
 })
+
+//loads of random shit:
+//just to test if this branch works
+//will merge in a second
